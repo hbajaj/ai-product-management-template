@@ -1,23 +1,17 @@
 # AI Solution Decision Matrix · Juno
 
-> Module 2 · Strategy. The build / buy / fine-tune / partner call, made with the **M2 · AI Solution Decision Matrix**. Paste the tool's markdown over this file.
-
 ## The decision
 
-_What are you deciding, and why now?_
-
-_____
+How should RocketShip use Juno PM to prioritize incoming product signals without giving the AI too much authority over roadmap and escalation decisions?
 
 ## Options scored
 
 | Option | Cost | Speed | Control | Moat | Risk | Score |
 |---|---|---|---|---|---|---|
-| _Build_ | _…_ | _…_ | _…_ | _…_ | _…_ | _…_ |
-| _Buy / API_ | _…_ | _…_ | _…_ | _…_ | _…_ | _…_ |
-| _Fine-tune_ | _…_ | _…_ | _…_ | _…_ | _…_ | _…_ |
+| Build | 2 | 2 | 4 | 5 | 4 | 3.4 |
+| Buy / API | 4 | 3 | 4 | 3 | 5 | 3.8 |
+| Fine-tune | 3 | 2 | 4 | 4 | 1 | 2.8 |
 
 ## Recommendation
 
-_The chosen option and the business reason._
-
-_____
+Buy the model, build the Juno experience. Fine-tune only if evaluation data later proves prompting and retrieval are insufficient.
