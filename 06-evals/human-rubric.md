@@ -23,15 +23,9 @@ _Full 1-5 anchors:_
 ### 1. Accuracy of top-3 risks
 
 - **Score 1:** The response's main conclusion or requested output is wrong, or it contains a material factual or calculation error that would lead the user to an incorrect decision.
-- **Score 2:** 
-
-The main conclusion is only partly correct and the response contains two or more material errors or omissions that require substantial correction.
-- **Score 3:** 
-
-The main conclusion is correct, but the response contains one material error or omission that must be corrected before use.
-- **Score 4:** 
-
-The main conclusion and all material supporting claims are correct; any errors are minor and do not change the user's decision or next action.
+- **Score 2:**  The main conclusion is only partly correct and the response contains two or more material errors or omissions that require substantial correction.
+- **Score 3:** The main conclusion is correct, but the response contains one material error or omission that must be corrected before use.
+- **Score 4:**  The main conclusion and all material supporting claims are correct; any errors are minor and do not change the user's decision or next action.
 - **Score 5:** Every checkable claim, calculation, and requested output is correct, and the response explicitly identifies any uncertainty that cannot be resolved from the available information.
 
 ### 2. Citation grounding
